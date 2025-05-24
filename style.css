@@ -1,0 +1,38 @@
+#carrossel1-Slides{
+    width: 80%;
+}
+#carrossel2-Slides{
+    width: 80%;
+}
+#carrossel3-Slides{
+    width: 80%;
+}
+#carrossel4-Slides{
+    width: 80%;
+}
+hr{
+    width: 20%;
+    color: black;
+}
+body{
+    background-image: linear-gradient(#ffd8b96c);/*Criamos um gradiente para a página web. Formas de aplicação: right, left, top e bottom*/
+    font-family: Poppins sans-serif;/*Define a fonte padrão*/
+    color: #333;/*Define a cor do texto*/
+    line-height: 1.6;/*Define o espaçamento entre as linhas*/
+    padding: 15px;
+}
+p{
+    text-align: center;/*Centraliza o texto*/
+    text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); /* 2px de deslocamento horizontal, 2px de deslocamento vertical, 3px de blur, cor da sombra rgba(0, 0, 0, 0.5) */
+}
+h5{
+    text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5); /* 2px de deslocamento horizontal, 2px de deslocamento vertical, 3px de blur, cor da sombra rgba(0, 0, 0, 0.5) */
+}
+h1{
+    text-align: center;/*Centraliza o texto*/
+    color: #975529;/*Aplica cor*/
+    font-size: 2.8rem;/*Altera o tamanho*/
+    margin-top: 15px;/*Espaçamento externo acima do título*/
+    margin-bottom: 15px;/*Espaçamento externo abaixo do título*/
+    text-shadow: 2px 2px 25px rgba(0, 0, 0, 0.5); /* 2px de deslocamento horizontal, 2px de deslocamento vertical, 3px de blur, cor da sombra rgba(0, 0, 0, 0.5) */
+}
